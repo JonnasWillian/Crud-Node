@@ -4,7 +4,7 @@ Nela poderá criar e manipular os usuários criados dentro de um banco de dados
 
 - Para criar novos usuários, siga o modelo abaixo na rota "http://localhost:3030/user-list"
 
-<img src="!https://user-images.githubusercontent.com/61368318/151267482-8e694055-f76a-41b3-abc7-28d57eebc26a.jpeg">
+<img src="https://user-images.githubusercontent.com/61368318/151267482-8e694055-f76a-41b3-abc7-28d57eebc26a.jpeg">
 
 - Para realizar um Update em seu usuários, siga o modelo abaixo na rota "http://localhost:3030/user-update/id:"
 - OBS: No local do "id" insira o ID do usuário a ser modificado
