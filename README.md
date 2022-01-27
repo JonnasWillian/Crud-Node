@@ -1,5 +1,5 @@
 Olá ^^, me chamo Jonnas Willian e este é um projeto feito em Node para aplicação de um CRUD
-O projeto de CRUD de quadro de usuários feito em Node, [nome stack front-end] e [nome banco de dados].
+O projeto de CRUD de quadro de usuários feito em Node,  e banco de dados.
 Nela poderá criar e manipular os usuários criados dentro de um banco de dados
 
 - Para criar novos usuários, siga o modelo abaixo na rota "http://localhost:3030/user-list"
