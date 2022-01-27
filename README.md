@@ -2,7 +2,7 @@ Olá ^^, me chamo Jonnas Willian e este é um projeto feito em Node para aplica�
 O projeto de CRUD de quadro de usuários feito em Node,  e banco de dados.
 Nela poderá criar e manipular os usuários criados dentro de um banco de dados
 
-- Para criar novos usuários, siga o modelo abaixo na rota "http://localhost:3030/user-list"
+- Para criar novos usuários, siga o modelo abaixo na rota "http://localhost:3030/user-create"
 
 <img src="https://user-images.githubusercontent.com/61368318/151267482-8e694055-f76a-41b3-abc7-28d57eebc26a.jpeg">
 
